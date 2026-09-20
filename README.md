@@ -1,6 +1,2 @@
 # brenlu-ui.github.io
 
-# | Name | Brendan Luna|
-
-# | Introduction | Hello, I am a cybersecurity major at GMU. I like to practice ethical hacking and penetration testing | 
-# | Hobbies | I like to play soccer and travel to new places | 
